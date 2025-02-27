@@ -57,7 +57,7 @@ This environment is only necessary to generate and visualize maps that are color
 
 >Requires an ArcGIS subscription.
 
-Clone the ArcGIS Conda environment from the application to a local destination (recommended under your 'anaconda/envs/' directory, e.g., 'C:\Users\[USER]\anaconda3\envs\vax_inc_arcgis').
+Clone the ArcGIS Conda environment from the application to a local destination (recommended under your `anaconda/envs/` directory, e.g., `C:\Users\[USER]\anaconda3\envs\vax_inc_arcgis`).
 
 Then run:
 
