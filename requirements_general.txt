@@ -1,0 +1,14 @@
+python-docx==1.1.1
+xlrd==1.2.0
+openpyxl==3.1.5
+jenkspy==0.3.1
+matplotlib==3.3.4
+numpy==1.22.4
+optuna==4.1.0
+pandas==1.2.4
+pycountry==22.3.5
+scipy==1.7.0
+seaborn==0.11.1
+scikit-learn==0.24.1
+statsmodels==0.14.1
+xgboost==2.0.3

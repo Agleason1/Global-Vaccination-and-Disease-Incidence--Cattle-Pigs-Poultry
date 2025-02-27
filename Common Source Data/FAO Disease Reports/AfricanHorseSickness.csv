@@ -1,0 +1,217 @@
+Event ID,Disease,Serotype,latitude,longitude,Locality,Country,Region,observation date,report date,Species,Diagnosis Source,Humans Affected,Human Deaths,Diagnosis Status
+152474,African horse sickness,;2;9;,14.244513,-15.20683,Kaolack,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+129633,African horse sickness,,14.7869,-17.3096,Pikine,Senegal,Africa,2007-05-21T00:00:00Z,2007-09-12T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129634,African horse sickness,,14.765,-17.3974,Mbao,Senegal,Africa,2007-05-28T00:00:00Z,2007-09-12T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129966,African horse sickness,;2;,13.8433,-12.5916,Bala,Senegal,Africa,2007-08-29T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129962,African horse sickness,;2;,13.6897,-12.6684,Ndoga,Senegal,Africa,2007-08-21T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129635,African horse sickness,;2;,13.6677,-12.7122,Koussanar,Senegal,Africa,2007-08-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129967,African horse sickness,;2;,14.0518,-15.5102,Kaolack,Senegal,Africa,2007-08-29T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130332,African horse sickness,;2;,13.8323,-15.2359,Medina Sabakh,Senegal,Africa,2007-09-29T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130320,African horse sickness,;2;,14.0737,-14.8409,Maleme Hodar,Senegal,Africa,2007-09-11T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130333,African horse sickness,;2;,14.0518,-14.8409,Nganda,Senegal,Africa,2007-10-04T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130336,African horse sickness,;2;,14.0298,-14.9286,Sinthiou Baba Toure,Senegal,Africa,2007-09-19T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130331,African horse sickness,;2;,14.0737,-14.9835,Birkilane,Senegal,Africa,2007-09-29T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129650,African horse sickness,;2;,14.1286,-15.0164,Missirah,Senegal,Africa,2007-08-07T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129638,African horse sickness,;2;,14.0957,-14.7531,Saly Escale,Senegal,Africa,2007-08-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130322,African horse sickness,;2;,14.0847,-15.4992,"Kaffrine commune,",Senegal,Africa,2007-09-14T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129639,African horse sickness,;2;,14.1066,-15.5102,Kaolack,Senegal,Africa,2007-08-20T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129975,African horse sickness,;2;,14.0847,-15.4992,Kaolack,Senegal,Africa,2007-09-04T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130321,African horse sickness,;2;,14.4468,-15.2798,Mboss,Senegal,Africa,2007-09-12T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130339,African horse sickness,;2;,14.1725,-15.1371,Missirah,Senegal,Africa,2007-08-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129961,African horse sickness,;2;,14.1066,-15.5211,Kaolack,Senegal,Africa,2007-08-13T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129963,African horse sickness,;2;,13.6458,-13.7766,Makacoulibantang,Senegal,Africa,2007-08-22T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129636,African horse sickness,;2;,13.7116,-13.5791,Koumpentoum,Senegal,Africa,2007-08-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+251546,African horse sickness,,10.339344,13.561828,Bourha,Cameroon,Africa,2019-03-10T00:00:00Z,2019-04-17T00:00:00Z,"Domestic,Horse,Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+251547,African horse sickness,,10.339595,13.562534,Guili,Cameroon,Africa,2019-03-10T00:00:00Z,2019-04-17T00:00:00Z,"Domestic,Horse,Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+389716,African horse sickness,,10.8049,7.6419,142333 IGABI ,Nigeria,Africa,2024-10-25T00:00:00Z,2024-11-03T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+338784,African horse sickness,,6.597,3.857,Ikoyi,Nigeria,Africa,2022-12-13T00:00:00Z,2022-12-27T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+129583,African horse sickness,,6.4231,3.5689,Lagos polo club,Nigeria,Africa,2007-01-17T00:00:00Z,2007-09-25T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+152470,African horse sickness,;2;9;,14.736135,-17.229055,Dakar,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+129978,African horse sickness,;2;,14.7211,-17.2109,Sangalkam,Senegal,Africa,2007-09-10T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+152472,African horse sickness,;2;9;,14.40892,-16.243189,Fatick,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+284146,African horse sickness,,15.11,-16.111,"Kaolack Commune, Kaolack department, Kaolack region",Senegal,Africa,2020-11-19T00:00:00Z,2020-12-11T00:00:00Z,"Domestic,Equidae,",FAO ECTAD RAF,,,Confirmed
+129973,African horse sickness,;2;,14.5016,-16.6293,Ndiaganiao,Senegal,Africa,2007-09-03T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130335,African horse sickness,;2;,14.6882,-16.7391,Thies,Senegal,Africa,2007-10-05T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130334,African horse sickness,;2;,14.8857,-16.6952,Tivaouane,Senegal,Africa,2007-10-05T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130319,African horse sickness,;2;,14.8857,-16.7171,Tivaouane,Senegal,Africa,2007-09-11T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+152460,African horse sickness,;2;9;,14.79854,-16.882508,Thies,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+129964,African horse sickness,;2;,14.8527,-16.7061,Pire,Senegal,Africa,2007-08-27T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129974,African horse sickness,;2;,15.0832,-16.5855,Pire,Senegal,Africa,2007-09-03T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130330,African horse sickness,;2;,14.9296,-16.7061,Tivaouane,Senegal,Africa,2007-09-24T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+187170,African horse sickness,,-26.419,31.214,Nelson,Swaziland,Africa,2014-06-09T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187171,African horse sickness,,-26.364,31.124,Stroma,Swaziland,Africa,2014-06-11T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+251538,African horse sickness,,-26.467,31.389,Manzini,Swaziland,Africa,2019-03-25T00:00:00Z,2019-04-15T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+219307,African horse sickness,;Not specified;,-26.519201,31.214828,Nelson,Swaziland,Africa,2016-11-03T00:00:00Z,2016-11-21T00:00:00Z,"Domestic,Horse,Domestic,Horse,",WOAH (former OIE),,,Confirmed
+252228,African horse sickness,;5;,-26.513987,31.269146,Gcina,Swaziland,Africa,2019-04-02T00:00:00Z,2019-04-30T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+251536,African horse sickness,,-26.519201,31.214828,Nelson,Swaziland,Africa,2019-03-15T00:00:00Z,2019-04-15T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+229416,African horse sickness,;7;,-26.485693,31.191971,McCreedy,Swaziland,Africa,2017-07-07T00:00:00Z,2017-07-21T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+273097,African horse sickness,,-26.519,31.214,Nelson,Swaziland,Africa,2020-05-08T00:00:00Z,2020-05-28T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+251537,African horse sickness,,-26.485693,31.191971,McCreedy,Swaziland,Africa,2019-03-22T00:00:00Z,2019-04-15T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+235433,African horse sickness,;7;,-26.485693,31.191971,McCreedy,Swaziland,Africa,2018-03-05T00:00:00Z,2018-04-11T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+168851,African horse sickness,,-26.499,31.344,Matsapha industrial area under Mahholwane diptank area,Swaziland,Africa,2012-03-01T00:00:00Z,2012-03-06T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+158045,African horse sickness,,-26.499,31.344,Maholwane,Swaziland,Africa,2011-01-18T00:00:00Z,2011-01-21T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+220937,African horse sickness,,-26.499,31.344,Maholwane,Swaziland,Africa,2016-12-07T00:00:00Z,2016-12-21T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+251535,African horse sickness,,-26.3562,31.52398,Scotts Ranch,Swaziland,Africa,2019-03-08T00:00:00Z,2019-04-15T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+129579,African horse sickness,,-27.221,31.735,Mathanjeni,Swaziland,Africa,2005-12-22T00:00:00Z,2006-01-12T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+274916,African horse sickness,;1;,13.84,100.86,Nong Chok,Thailand,Asia,2020-06-16T00:00:00Z,2020-06-26T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+280459,African horse sickness,;1;,15.08204,102.7882,Hin Khon,Thailand,Asia,2020-08-11T00:00:00Z,2020-10-14T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+272516,African horse sickness,,13.600276,101.550335,Sanam Chai Khet,Thailand,Asia,2020-05-13T00:00:00Z,2020-05-22T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+270265,African horse sickness,,15.998288,102.333338,"Khon Sawan, Chaiyaphum",Thailand,Asia,2020-03-29T00:00:00Z,2020-04-17T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+268657,African horse sickness,,13.25,101.206,Ko Chan,Thailand,Asia,2020-03-27T00:00:00Z,2020-04-03T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+272427,African horse sickness,,14.842423,100.966163,Phatthana Nikhom,Thailand,Asia,2020-05-05T00:00:00Z,2020-05-15T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+267224,African horse sickness,,14.2442,101.2518,Pak Chong,Thailand,Asia,2020-03-24T00:00:00Z,2020-03-27T00:00:00Z,"Domestic,Horse,",National authorities,,,Confirmed
+272517,African horse sickness,,14.212221,101.994573,Ban Na,Thailand,Asia,2020-05-18T00:00:00Z,2020-05-22T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+274684,African horse sickness,;1;,13.893501,100.553017,Pak Kret,Thailand,Asia,2020-06-10T00:00:00Z,2020-06-19T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+274915,African horse sickness,;1;,13.95,100.71,Lam Luk Ka,Thailand,Asia,2020-06-14T00:00:00Z,2020-06-26T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+280460,African horse sickness,;1;,13.867235,101.52898,Safari World,Thailand,Asia,2020-09-01T00:00:00Z,2020-10-14T00:00:00Z,"Captive,Unspecified mammal,",WOAH (former OIE),,,Confirmed
+269882,African horse sickness,;1;,12.752079,99.910977,Cha-am,Thailand,Asia,2020-04-04T00:00:00Z,2020-04-10T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+272428,African horse sickness,,14.436578,100.593129,Bang Pahan,Thailand,Asia,2020-05-06T00:00:00Z,2020-05-15T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+268656,African horse sickness,,12.347,99.5728,Hua Hin,Thailand,Asia,2020-03-27T00:00:00Z,2020-04-03T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+269881,African horse sickness,;1;,13.601978,99.94296,Damnoen Saduak,Thailand,Asia,2020-04-01T00:00:00Z,2020-04-10T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+270861,African horse sickness,;1;,13.7998304,102.0759295,Mueang Sa Kaeo,Thailand,Asia,2020-04-14T00:00:00Z,2020-04-24T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+271424,African horse sickness,;1;,14.903489,101.41446,Muak Lek,Thailand,Asia,2020-04-24T00:00:00Z,2020-05-01T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+114183,African horse sickness,,25.78444,56.01,Ras Al Khaiman,United Arab Emirates,Asia,2006-11-02T00:00:00Z,2006-11-02T00:00:00Z,"Wild,antelope,",Other,,,Confirmed
+277767,African horse sickness,,5.319832,103.059028,Lot 256 Kampung Banggol Tok Esah 20050 Kuala Terengganu Manir,Malaysia,Asia,2020-08-06T00:00:00Z,2020-09-02T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+129621,African horse sickness,,7.608094,36.083875,Bonga Zuria,Ethiopia,Africa,2008-04-10T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185055,African horse sickness,,-25.9058,32.5812,"Costa do Sol, Kampfumo",Mozambique,Africa,2014-03-20T00:00:00Z,2014-05-07T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+205685,African horse sickness,,-25.9058,32.5812,"Costa do Sol, Kampfumo",Mozambique,Africa,2014-03-20T00:00:00Z,2014-05-07T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+214809,African horse sickness,,-25.87642,32.6626,Maputo City,Mozambique,Africa,2016-07-11T00:00:00Z,2016-07-25T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+129965,African horse sickness,;2;,16.4437,-16.2343,Ross-Bethio,Senegal,Africa,2007-08-28T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129972,African horse sickness,;2;,16.3779,-16.2343,Ross-Bethio,Senegal,Africa,2007-09-01T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130337,African horse sickness,;2;,16.5425,-15.4992,Ngambou Thille,Senegal,Africa,2007-09-29T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130328,African horse sickness,;2;,16.4876,-15.565,Dagana,Senegal,Africa,2007-09-20T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130329,African horse sickness,;2;,16.5096,-15.598,Mbilor,Senegal,Africa,2007-09-20T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130327,African horse sickness,;2;,15.149,-12.9097,Ourosidi,Senegal,Africa,2007-09-20T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129637,African horse sickness,;2;,15.4343,-14.8189,Kadji,Senegal,Africa,2007-08-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+152461,African horse sickness,;2;9;,15.397999,-15.690158,Louga,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+261068,African horse sickness,,15.366699,-15.165278,"Ouarkhokh , Linguere Dept, Louga region",Senegal,Africa,2019-09-25T00:00:00Z,2019-09-30T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+130323,African horse sickness,;2;,15.7086,-13.3157,Bokidiawe,Senegal,Africa,2007-09-15T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130325,African horse sickness,;2;,15.4782,-13.217,Dabia,Senegal,Africa,2007-09-15T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+152476,African horse sickness,;2;9;,14.782582,-16.029023,Diourbel,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+152467,African horse sickness,;2;9;,16.092511,-14.732487,Saint-Louis,Senegal,Africa,2008-07-07T00:00:00Z,2009-08-01T00:00:00Z,"Domestic,donkey,",FAO-Report,,,Confirmed
+130326,African horse sickness,;2;,16.5973,-14.38,Dodel,Senegal,Africa,2007-09-16T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130338,African horse sickness,;2;,16.6303,-14.3471,Dodel,Senegal,Africa,2007-10-01T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+130324,African horse sickness,;2;,14.8198,-14.1167,Oudalaye,Senegal,Africa,2007-09-15T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129977,African horse sickness,;2;,15.4233,-13.7875,Nabadji civol,Senegal,Africa,2007-09-06T00:00:00Z,2007-12-05T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129915,African horse sickness,;2;,6.889778,36.331222,Cheta,Ethiopia,Africa,2008-04-17T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129912,African horse sickness,;2;,8.018767,35.829531,Saylem,Ethiopia,Africa,2008-04-09T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129622,African horse sickness,,6.733333,36.239019,Decha,Ethiopia,Africa,2008-05-17T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129613,African horse sickness,,7.674653,35.728842,Gesha,Ethiopia,Africa,2008-05-15T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129612,African horse sickness,,7.441428,36.100542,Gimbo,Ethiopia,Africa,2008-04-19T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129921,African horse sickness,;2;,7.104272,36.390881,Tello,Ethiopia,Africa,2008-05-25T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129913,African horse sickness,;2;,7.595183,35.911614,Gawata,Ethiopia,Africa,2008-04-12T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129914,African horse sickness,;2;,7.395253,35.663433,Bita Genet,Ethiopia,Africa,2008-04-17T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129286,African horse sickness,;2;,7.280886,35.610056,Chena,Ethiopia,Africa,2008-04-19T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129911,African horse sickness,;2;,7.758644,35.488389,Adiyo (Manjwo),Ethiopia,Africa,2008-04-09T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+386059,African horse sickness,,-1.305832,36.739164,ob_139183 - Miotoni Road Karen Jockey Club,Kenya,Africa,2024-06-05T00:00:00Z,2024-09-09T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+185056,African horse sickness,,-25.89242259,32.557787,"Equestrian Center of Maputo, Urbano Kamubukwane, Urbano Kamubukwane",Mozambique,Africa,2014-03-20T00:00:00Z,2014-05-07T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+251914,African horse sickness,,12.196,21.6057,Koukou,Chad,Africa,2019-04-05T00:00:00Z,2019-04-19T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+251913,African horse sickness,,13.3907,21.1892,Marfa,Chad,Africa,2019-04-05T00:00:00Z,2019-04-19T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+161895,African horse sickness,;1;,-33.50739,18.4515,Mamre,South Africa,Africa,2011-03-21T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162844,African horse sickness,,-33.50539,18.44894,Mamre ,South Africa,Africa,2011-03-31T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163155,African horse sickness,;1;,-33.54067,18.52236,Pella,South Africa,Africa,2011-04-04T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161887,African horse sickness,;1;,-33.50511,18.44814,Mamre,South Africa,Africa,2011-03-12T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161902,African horse sickness,;1;,-33.4865,18.4888,Mamre,South Africa,Africa,2011-03-09T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161903,African horse sickness,;1;,-33.51978,18.47997,Mamre,South Africa,Africa,2011-03-05T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161897,African horse sickness,;1;,-33.50739,18.4515,Mamre,South Africa,Africa,2011-03-21T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161894,African horse sickness,;1;,-33.4865,18.48886,Mamre,South Africa,Africa,2011-03-10T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162841,African horse sickness,,-33.4865,18.48886,Mamre 36,South Africa,Africa,2011-03-10T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163154,African horse sickness,;1;,-33.57973,18.57947,Klein Dassenberg,South Africa,Africa,2011-04-01T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163163,African horse sickness,;1;,-33.50589,18.44868,AHS_WCP2011_45,South Africa,Africa,2011-04-16T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161890,African horse sickness,;1;,-33.4865,18.48886,Mamre,South Africa,Africa,2011-03-16T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161885,African horse sickness,;1;,-33.60518,18.51243,Dassenburg,South Africa,Africa,2011-03-25T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161898,African horse sickness,;1;,-33.51122,18.47792,Mamre,South Africa,Africa,2011-03-16T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163157,African horse sickness,;1;,-33.50576,18.44414,Mamre 38,South Africa,Africa,2011-03-27T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162845,African horse sickness,,-33.54099,18.52148,Mamre 35,South Africa,Africa,2011-03-17T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161900,African horse sickness,;1;,-33.48636,18.4784,Mamre,South Africa,Africa,2011-03-26T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163165,African horse sickness,;1;,-33.50589,18.44868,Mamre 42,South Africa,Africa,2011-04-08T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163156,African horse sickness,;1;,-33.4965,18.44903,Mamre 41,South Africa,Africa,2011-04-03T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+160360,African horse sickness,;1;,-33.51119,18.47558,Mamre,South Africa,Africa,2011-02-26T00:00:00Z,2011-03-07T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163160,African horse sickness,;1;,-33.53703,18.52724,AHS_WCP2011_47,South Africa,Africa,2011-04-14T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163158,African horse sickness,;1;,-33.61694,18.52919,AHS_WCP2011_44,South Africa,Africa,2011-05-03T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161901,African horse sickness,;1;,-33.48894,18.48699,Mamre,South Africa,Africa,2011-03-17T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162843,African horse sickness,,-33.5095,18.50312,Mamre ,South Africa,Africa,2011-03-19T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163159,African horse sickness,;1;,-33.50774,18.45011,AHS_WCP2011_50,South Africa,Africa,2011-03-27T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+176750,African horse sickness,,-33.914774,18.582703,City of Cape Town,South Africa,Africa,2013-05-20T00:00:00Z,2013-07-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161889,African horse sickness,;1;,-33.55119,18.49231,Mamre,South Africa,Africa,2011-03-18T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163161,African horse sickness,;1;,-33.50596,18.44884,AHS_WCP2011_49,South Africa,Africa,2011-04-13T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161458,African horse sickness,;1;,-33.5095,18.4683,Mamre,South Africa,Africa,2011-03-06T00:00:00Z,2011-03-18T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161888,African horse sickness,;1;,-33.50619,18.44879,Mamre,South Africa,Africa,2011-03-11T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+160385,African horse sickness,;1;,-33.50739,18.4525,Mamre,South Africa,Africa,2011-03-02T00:00:00Z,2011-03-09T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162846,African horse sickness,,-33.52461,18.47303,Mamre ,South Africa,Africa,2011-03-20T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+162842,African horse sickness,,-33.51062,18.47576,Mamre 37,South Africa,Africa,2011-03-15T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161457,African horse sickness,;1;,-33.51386,18.48383,Mamre,South Africa,Africa,2011-03-05T00:00:00Z,2011-03-18T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161891,African horse sickness,;1;,-33.48894,18.48699,Mamre,South Africa,Africa,2011-03-17T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163153,African horse sickness,;1;,-33.50406,18.44343,AHS_WCP2011_48,South Africa,Africa,2011-04-16T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+160384,African horse sickness,;1;,-33.51353,18.48406,Mamre,South Africa,Africa,2011-02-02T00:00:00Z,2011-03-09T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163162,African horse sickness,;1;,-33.53989,18.52347,Pella 43,South Africa,Africa,2011-04-18T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161899,African horse sickness,;1;,-33.51978,18.47997,Mamre,South Africa,Africa,2011-03-07T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161893,African horse sickness,;1;,-33.48894,18.48699,Mamre,South Africa,Africa,2011-03-17T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161886,African horse sickness,;1;,-33.51114,18.469,Mamre,South Africa,Africa,2011-03-14T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161892,African horse sickness,;1;,-33.55119,18.49231,Mamre,South Africa,Africa,2011-03-18T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+183578,African horse sickness,,-33.111,19.02406,"WCP_AHS_2014_002, Bergrivier",South Africa,Africa,2014-02-22T00:00:00Z,2014-03-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+161896,African horse sickness,;1;,-33.45893,18.48732,Mamre,South Africa,Africa,2011-03-24T00:00:00Z,2011-04-11T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+294192,African horse sickness,,-32,19,AHS_WCP_2021_001,South Africa,Africa,2021-04-09T00:00:00Z,2021-04-28T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+295971,African horse sickness,,-31.9,19,AHS_WCP_2021_002,South Africa,Africa,2021-04-30T00:00:00Z,2021-05-21T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+162847,African horse sickness,,-33.396,18.395,Malmesbury,South Africa,Africa,2011-03-02T00:00:00Z,2011-05-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+295973,African horse sickness,,-32.1,18.9,AHS_WCP_2021_003,South Africa,Africa,2021-05-04T00:00:00Z,2021-05-21T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+185038,African horse sickness,,-33.00692,18.99967,"WCP_AHS_2014_015, Bergrivier",South Africa,Africa,2014-04-08T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+183375,African horse sickness,,-33.1115,19.02406,"WCP_AHS_2014_001, Bergriver,",South Africa,Africa,2014-03-05T00:00:00Z,2014-03-12T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185479,African horse sickness,,-33.015,18.997,"WCP_AHS_2014_025, Bergrivier",South Africa,Africa,2014-04-30T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212540,African horse sickness,,-33.5,18.9,AHS_WCP_2016_004,South Africa,Africa,2016-04-28T00:00:00Z,2016-05-13T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+163164,African horse sickness,;1;,-33.52039,18.59587,AHS_WCP2011_51,South Africa,Africa,2011-04-13T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+295972,African horse sickness,,-32.1,19.1,AHS_WCP_2021_004,South Africa,Africa,2021-05-06T00:00:00Z,2021-05-21T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+184380,African horse sickness,,-33.1854,18.9498,"WCP_AHS_2014_012, Bergrivier",South Africa,Africa,2014-03-23T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+183580,African horse sickness,,-33.0174,19.0084,"WCP_AHS_2014_003, Bergrivier",South Africa,Africa,2014-02-22T00:00:00Z,2014-03-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212541,African horse sickness,,-33.6,18.8,AHS_WCP_2016_005,South Africa,Africa,2016-04-28T00:00:00Z,2016-05-13T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185477,African horse sickness,,-32.86,18.66,"WCP_AHS_2014_027, Bergrivier",South Africa,Africa,2014-04-29T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184378,African horse sickness,,-33.0219,18.9963,"WCP_AHS_2014_009, Bergrivier",South Africa,Africa,2014-03-13T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+293390,African horse sickness,,-32,19,AHS_WCP_2021_001,South Africa,Africa,2021-04-09T00:00:00Z,2021-04-15T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+183579,African horse sickness,,-33.048,18.9652,"WCP_AHS_2014_005, Bergrivier",South Africa,Africa,2014-02-22T00:00:00Z,2014-03-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+163166,African horse sickness,;1;,-33.46481,18.47264,AHS_WCP2011_46,South Africa,Africa,2011-03-31T00:00:00Z,2011-06-10T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187182,African horse sickness,,-33.7781,19.6791,"WCP_AHS_2014_035, Breede Valley",South Africa,Africa,2014-04-30T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129580,African horse sickness,,-33.77,19.68,Dageraad,South Africa,Africa,2006-03-27T00:00:00Z,2006-05-08T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+185030,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_019, Bergrivier",South Africa,Africa,2014-03-21T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187179,African horse sickness,,-33.8462,19.96263,"WCP_AHS_2014_038, Breede Valley",South Africa,Africa,2014-05-21T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+183582,African horse sickness,,-33.1866,18.9933,"WCP_AHS_2014_006, Bergrivier",South Africa,Africa,2014-02-22T00:00:00Z,2014-03-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185034,African horse sickness,,-33.565,18.938,"WCP_AHS_2014_014, Bergrivier",South Africa,Africa,2014-03-28T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129581,African horse sickness,,-33.77,19.58,Rondeheuwel,South Africa,Africa,2006-03-27T00:00:00Z,2006-05-08T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+185033,African horse sickness,,-33.16764,19.02366,"WCP_AHS_2014_021, Bergrivier",South Africa,Africa,2014-03-26T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184379,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_013, Bergrivier",South Africa,Africa,2014-03-13T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184384,African horse sickness,,-33.1786,18.9952,"WCP_AHS_2014_010, Bergrivier",South Africa,Africa,2014-03-26T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212736,African horse sickness,;1;,-33.6,19,AHS_WCP_2016_007,South Africa,Africa,2016-04-26T00:00:00Z,2016-06-01T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185478,African horse sickness,,-33.57414,19.07234,"WCP_AHS_2014_026, Drakenstein",South Africa,Africa,2014-04-29T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185480,African horse sickness,,-33.67511,18.94196,"WCP_AHS_2014_028, Drakenstein",South Africa,Africa,2014-04-30T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185036,African horse sickness,,-33.18102,19.01002,"WCP_AHS_2014_024, Bergrivier",South Africa,Africa,2014-03-28T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187175,African horse sickness,,-33.81348,19.78239,"WCP_AHS_2014_032, Breede Valley",South Africa,Africa,2014-04-30T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184383,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_008, Bergrivier",South Africa,Africa,2014-03-25T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187178,African horse sickness,,-33.83319,19.7636,"WCP_AHS_2014_037, Breede Valley",South Africa,Africa,2014-05-21T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+183581,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_004, Bergrivier",South Africa,Africa,2014-02-22T00:00:00Z,2014-03-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212737,African horse sickness,;1;,-33.6,18.9,AHS_WCP_2016_008,South Africa,Africa,2016-05-02T00:00:00Z,2016-06-01T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+211782,African horse sickness,,-33.7,19,AHS_WCP_2016_001,South Africa,Africa,2016-04-02T00:00:00Z,2016-04-08T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185476,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_029, Witzenberg",South Africa,Africa,2014-04-27T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185475,African horse sickness,,-33.84211111,19.83086111,"WCP_AHS_2014_030, Robertson",South Africa,Africa,2014-04-09T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187176,African horse sickness,,-33.86184,19.70181,"WCP_AHS_2014_033, Breede Valley",South Africa,Africa,2014-05-02T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187177,African horse sickness,,-33.8397,19.92478,"WCP_AHS_2014_034, Breede Valley",South Africa,Africa,2014-05-08T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212000,African horse sickness,,-33.7,19,AHS_WCP_2016_002,South Africa,Africa,2016-04-20T00:00:00Z,2016-05-03T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185035,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_020, Bergrivier",South Africa,Africa,2014-03-28T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212539,African horse sickness,,-33.6,18.9,AHS_WCP_2016_003,South Africa,Africa,2016-04-27T00:00:00Z,2016-05-13T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185032,African horse sickness,,-33.17845,19.01073,"WCP_AHS_2014_023, Bergrivier",South Africa,Africa,2014-03-24T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+187174,African horse sickness,,-33.84211,19.83086,"WCP_AHS_2014_036, Breede Valley",South Africa,Africa,2014-04-09T00:00:00Z,2014-06-20T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184382,African horse sickness,,-33.1775,19.0077,"WCP_AHS_2014_007, Bergrivier",South Africa,Africa,2014-03-25T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185481,African horse sickness,,-33.83858,19.73688,"WCP_AHS_2014_031, Breede Valley",South Africa,Africa,2014-05-08T00:00:00Z,2014-05-28T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+184381,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_011, Bergrivier",South Africa,Africa,2014-03-25T00:00:00Z,2014-04-14T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+212735,African horse sickness,;1;,-33.6,19,AHS_WCP_2016_006,South Africa,Africa,2016-04-26T00:00:00Z,2016-06-01T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+185031,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_022, Bergrivier",South Africa,Africa,2014-03-24T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185029,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_017, Bergrivier",South Africa,Africa,2014-03-13T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+185039,African horse sickness,,-33.181,19.01,"WCP_AHS_2014_018, Bergrivier",South Africa,Africa,2014-04-13T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129582,African horse sickness,,-33.83,19.76,Highlands,South Africa,Africa,2006-04-28T00:00:00Z,2006-05-08T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+185037,African horse sickness,,-33.56897,19.05458,"WCP_AHS_2014_016, Bergrivier",South Africa,Africa,2014-04-05T00:00:00Z,2014-05-08T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129625,African horse sickness,,7.900311,35.610056,Dido,Ethiopia,Africa,2008-03-30T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129922,African horse sickness,;2;,6.916675,35.488331,Maeniti Goldia,Ethiopia,Africa,2008-06-03T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",National authorities,,,Confirmed
+129623,African horse sickness,,6.698028,35.739725,Yeshie Benchi,Ethiopia,Africa,2008-06-01T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+129624,African horse sickness,,7.120747,35.663247,South Benchi,Ethiopia,Africa,2008-05-27T00:00:00Z,2008-09-19T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+152110,African horse sickness,;2;,5.61,-0.18333,Accra Polo Grounds,Ghana,Africa,2010-01-18T00:00:00Z,2010-02-12T00:00:00Z,"Domestic,horse,",WOAH (former OIE),,,Confirmed
+253231,African horse sickness,,5.591509,-0.226957,Accra,Ghana,Africa,,2019-05-12T00:00:00Z,"Domestic,Horse,",WOAH (former OIE),,,Confirmed
+387909,African horse sickness,,9.4117,8.8172,140569 JOS POLO  CLUB,Nigeria,Africa,2024-09-16T00:00:00Z,2024-10-04T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
+396890,African horse sickness,,9.0431,7.3469,147740 313 STABLE ABUJA FCT,Nigeria,Africa,2025-01-10T00:00:00Z,2025-01-23T00:00:00Z,"Domestic,Equidae,",WOAH (former OIE),,,Confirmed
