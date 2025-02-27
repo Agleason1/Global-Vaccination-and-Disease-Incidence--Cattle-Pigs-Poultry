@@ -1,0 +1,351 @@
+Event ID,Disease,Serotype,latitude,longitude,Locality,Country,Region,observation date,report date,Species,Diagnosis Source,Humans Affected,Human Deaths,Diagnosis Status
+165340,African swine fever,,3.129437,32.104081,Gulu,Uganda,Africa,2010-09-28T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165341,African swine fever,,3.129437,32.104081,Gulu (Lakwama),Uganda,Africa,2010-10-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+164385,African swine fever,,-17.94,15.06,Etunda,Namibia,Africa,2009-04-11T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+165342,African swine fever,,3.129437,32.104081,Obiya west” village ,Uganda,Africa,2010-11-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165338,African swine fever,,2.269495,33.321205,Lira,Uganda,Africa,2010-07-29T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131010,African swine fever,,41,48,Qebele district,Azerbaijan,Asia,2008-01-22T00:00:00Z,2008-01-29T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131511,African swine fever,,39.85491,44.67888,Avshar,Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131504,African swine fever,,39.91371,44.71993,Vedi,Armenia,Asia,2007-11-27T00:00:00Z,2007-11-27T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131505,African swine fever,,39.9,44.68333,Vanashen (Artashat) ,Armenia,Asia,2007-11-28T00:00:00Z,2007-11-28T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131508,African swine fever,,39.85491,44.67888,Avshar,Armenia,Asia,2007-12-08T00:00:00Z,2007-12-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131513,African swine fever,,39.91371,44.71993,Vedi,Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131514,African swine fever,,40.02514,44.49045,Mkhchyan,Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131518,African swine fever,,40.02527,44.37027,Ranchpar,Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131517,African swine fever,,40.03931,44.4786,Jrahovit,Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131515,African swine fever,,40.08,44.24,Arbat' (Masis),Armenia,Asia,2007-12-24T00:00:00Z,2007-12-24T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131502,African swine fever,,40.04333,43.94472,Getashen (Artashat),Armenia,Asia,2007-11-12T00:00:00Z,2007-11-12T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+156458,African swine fever,,40.9109,44.7739,Lorut,Armenia,Asia,2010-08-30T00:00:00Z,2010-09-13T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156459,African swine fever,,40.9452,44.8288,Marts,Armenia,Asia,2010-08-30T00:00:00Z,2010-09-13T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153867,African swine fever,,40.729221,44.858042,Dilijan,Armenia,Asia,,2010-05-03T00:00:00Z,"Domestic,swine,",FAO Field Officer,,,Confirmed
+131452,African swine fever,,40.76848,44.89081,Haghardzin,Armenia,Asia,2007-10-01T00:00:00Z,2007-10-01T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131488,African swine fever,,40.76848,44.89081,Haghartsin,Armenia,Asia,2007-11-08T00:00:00Z,2007-11-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131416,African swine fever,,40.76848,44.89087,Haghardzin,Armenia,Asia,2007-08-15T00:00:00Z,2007-08-15T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131414,African swine fever,,41.17916,45.10972,Barekamavan,Armenia,Asia,2007-08-08T00:00:00Z,2007-08-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131468,African swine fever,,41.18767,44.97864,Koghb,Armenia,Asia,2007-10-22T00:00:00Z,2007-10-22T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+153060,African swine fever,,41.2405,44.91,Noyemberyan,Armenia,Asia,2010-03-02T00:00:00Z,2010-03-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+131495,African swine fever,,41.18767,44.97864,Koghb,Armenia,Asia,2007-11-08T00:00:00Z,2007-11-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131491,African swine fever,,41.11666,45.08333,Baghanis,Armenia,Asia,2007-11-08T00:00:00Z,2007-11-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+131498,African swine fever,,41.11916,45.06527,Voskevan,Armenia,Asia,2007-11-08T00:00:00Z,2007-11-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157065,African swine fever,,39.8388,45.2676,Eghegis Canyon,Armenia,Asia,2010-10-21T00:00:00Z,2010-10-28T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+131494,African swine fever,,40.15861,44.49933,Jujevan,Armenia,Asia,2007-11-08T00:00:00Z,2007-11-08T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+155752,African swine fever,,8.7875,14.01,Mayo-Rey,Cameroon,Africa,2010-02-15T00:00:00Z,2010-07-12T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+153363,African swine fever,,42.93,41.11,Latta,Georgia,Asia,2007-07-04T00:00:00Z,2007-08-17T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153362,African swine fever,,42.85,41.12,Babushari,Georgia,Asia,2007-07-04T00:00:00Z,2007-08-17T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153324,African swine fever,,41.6735,42.0321,Khelvachauri,Georgia,Asia,2007-05-15T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153332,African swine fever,,42.1319,42.0768,Lanchkhuti,Georgia,Asia,2007-04-24T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153331,African swine fever,,41.9977,42.0321,Ozurgeti,Georgia,Asia,2007-05-24T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153351,African swine fever,,42.0201,42.3563,Chokhatauri,Georgia,Asia,2007-05-25T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153315,African swine fever,,42.1878,42.77,Terjola,Georgia,Asia,2007-05-14T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153358,African swine fever,,42.02,43.21,Kharagauli,Georgia,Asia,2007-05-11T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153350,African swine fever,,42.4449,42.5352,Tskaltubo,Georgia,Asia,2007-05-14T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153338,African swine fever,,42.4561,42.4793,Khoni,Georgia,Asia,2007-05-09T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153336,African swine fever,,42.15,42.333334,Samtredia,Georgia,Asia,2007-05-09T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153365,African swine fever,,42.4114,43.5414,Oni,Georgia,Asia,2007-08-15T00:00:00Z,2007-11-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153357,African swine fever,,42.266,42.837,Bagdadi,Georgia,Asia,2007-05-11T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153321,African swine fever,,42.344167,42.99,Tkibuli,Georgia,Asia,2007-05-12T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153307,African swine fever,,42.2996,43.0942,Zestafoni,Georgia,Asia,2007-05-11T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153335,African swine fever,,42.3331,43.1389,Chiatura,Georgia,Asia,2007-05-15T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153329,African swine fever,,42.3443,43.2395,Sachkhere,Georgia,Asia,2007-05-14T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153349,African swine fever,,42.2996,42.6582,Kutaisi,Georgia,Asia,2007-05-11T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153306,African swine fever,,42.266,42.5128,Vani,Georgia,Asia,2007-05-14T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153334,African swine fever,,42.076,45.263,Akhmeta,Georgia,Asia,2007-05-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153346,African swine fever,,41.7741,45.8444,Gurjaani,Georgia,Asia,2007-05-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153341,African swine fever,,42.0089,45.7326,Kvareli,Georgia,Asia,2007-05-18T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153355,African swine fever,,41.8636,46.1686,Lagodekhi,Georgia,Asia,2007-05-23T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153354,African swine fever,,41.8189,45.2854,Sagarejo,Georgia,Asia,2007-05-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153333,African swine fever,,41.9083,45.5537,Telavi,Georgia,Asia,2007-05-24T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153348,African swine fever,,41.4276,44.2233,Dmanisi,Georgia,Asia,2007-05-11T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153312,African swine fever,,41.7294,45.0842,Rustavi city,Georgia,Asia,2007-05-03T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153327,African swine fever,,41.7182,44.6817,TetriTskaro,Georgia,Asia,2007-05-16T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153328,African swine fever,,41.5505,45.1512,Gardabani,Georgia,Asia,2007-05-11T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153319,African swine fever,,41.5505,44.9276,Marneuli,Georgia,Asia,2007-05-08T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153347,African swine fever,,41.5505,44.6258,Bolnisi,Georgia,Asia,2007-05-17T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153314,African swine fever,,42.199,44.5252,Akhalgori,Georgia,Asia,2007-05-08T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153320,African swine fever,,42.199,44.5475,Dusheti,Georgia,Asia,2007-05-10T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153339,African swine fever,,42.219746,44.714193,Senaki,Georgia,Asia,2007-04-26T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153317,African swine fever,,41.9307,44.6705,Mtskheta,Georgia,Asia,2007-05-07T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153356,African swine fever,,41.839323,44.706051,Mtskheta,Georgia,Asia,2007-05-10T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153313,African swine fever,,42.109445,44.955278,Tianeti,Georgia,Asia,2007-05-09T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153361,African swine fever,,42.8697,42.401,Lentekhi,Georgia,Asia,2007-06-29T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153330,African swine fever,,42.6573,42.9265,Ambrolauri,Georgia,Asia,2007-05-25T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153343,African swine fever,,42.2437,41.9203,Zugdidi,Georgia,Asia,2007-04-26T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153344,African swine fever,,42.141945,41.676389,Poti,Georgia,Asia,2007-04-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153322,African swine fever,,42.1654,41.8421,Khobi,Georgia,Asia,2007-04-27T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153323,African swine fever,,43.0598,42.5799,Mestia,Georgia,Asia,2007-05-11T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153337,African swine fever,,42.7132,42.3787,Tsageri,Georgia,Asia,2007-05-25T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153316,African swine fever,,42.4561,42.0992,Martvili,Georgia,Asia,2007-04-30T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153308,African swine fever,,42.5679,41.9986,Chkhorotskhu,Georgia,Asia,2007-04-30T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153360,African swine fever,,42.6797,42.1327,Tsalendjikha,Georgia,Asia,2007-05-02T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153318,African swine fever,,42.2996,42.0321,Tsalenjikha,Georgia,Asia,2007-04-27T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153359,African swine fever,,42.268889,42.079167,Senaki,Georgia,Asia,2007-04-25T00:00:00Z,2007-08-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153309,African swine fever,,42.2101,42.0433,Abasha,Georgia,Asia,2007-04-30T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153310,African swine fever,,41.7741,42.7923,Adigeni,Georgia,Asia,2007-05-24T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153326,African swine fever,,41.7182,43.2283,Akhalkalaki,Georgia,Asia,2007-05-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153340,African swine fever,,41.7518,43.0718,Akhaltsikhe,Georgia,Asia,2007-05-25T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153345,African swine fever,,41.8524,43.3178,Borjomi,Georgia,Asia,2007-05-25T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153353,African swine fever,,41.3493,43.5861,Ninotsminda,Georgia,Asia,2007-05-23T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153364,African swine fever,,41.953,44.2345,Gori,Georgia,Asia,2007-05-11T00:00:00Z,2007-11-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153325,African swine fever,,42.1542,43.7314,Kareli,Georgia,Asia,2007-05-10T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153311,African swine fever,,41.916667,44.416667,Kaspi,Georgia,Asia,2007-05-10T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153342,African swine fever,,41.989723,43.59,Khashuri,Georgia,Asia,2007-05-12T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153352,African swine fever,,41.716667,44.783334,Tbilisi,Georgia,Asia,2007-05-16T00:00:00Z,2007-06-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+160638,African swine fever,,39.3495615517,8.9353235246,Cagliari,Italy,Europe,2010-04-30T00:00:00Z,2010-05-07T00:00:00Z,"Wild,wild boar,",EC,,,Confirmed
+156071,African swine fever,,39.879389,8.611425,Santa Giusta,Italy,Europe,2010-07-30T00:00:00Z,2010-08-06T00:00:00Z,"Domestic,swine,",EC,,,Confirmed
+368771,African swine fever,,57.27398,24.51725,OB_128852 - S JAS PARISH,Latvia,Europe,2006-12-05T00:00:00Z,2023-12-12T00:00:00Z,"Wild,Wild boar:Sus scrofa(Suidae),",WOAH (former OIE),,,Confirmed
+164392,African swine fever,,-20.23,57.41,Albion,Mauritius,Africa,2008-05-05T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164393,African swine fever,,-20.23,57.41,Albion area,Mauritius,Africa,2008-03-07T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164388,African swine fever,,-20.3,57.73,Olivia,Mauritius,Africa,2008-07-12T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+130291,African swine fever,,-20.2,57.71,Bassin Requin,Mauritius,Africa,2007-09-27T00:00:00Z,2007-10-19T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+130289,African swine fever,,-20.45,57.58,Roche Bois,Mauritius,Africa,2007-09-21T00:00:00Z,2007-10-19T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+164389,African swine fever,,-20.216666,57.516667,Point aux sable,Mauritius,Africa,2008-02-09T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164391,African swine fever,,-20.35,57.53,16ème mille Curepipe,Mauritius,Africa,2008-06-30T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164390,African swine fever,,-20.304969,57.483289,Henrietta,Mauritius,Africa,2008-04-01T00:00:00Z,2009-03-03T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+130290,African swine fever,,-20.483,57.383,St Martin,Mauritius,Africa,2007-09-25T00:00:00Z,2007-10-19T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+129514,African swine fever,,-21.19,16.31,Ozondjisse Farm,Namibia,Africa,2008-10-01T00:00:00Z,2008-10-27T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164386,African swine fever,,-17.47,15.09,Onawa,Namibia,Africa,2009-04-05T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164379,African swine fever,,-17.48,15.06,Okafitukakamba,Namibia,Africa,2009-04-16T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164378,African swine fever,,-17.55,15.59,Oluno Prison,Namibia,Africa,2009-04-22T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164381,African swine fever,,-17.46,15.13,Ouhwaala,Namibia,Africa,2009-04-02T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164380,African swine fever,,-17.43,15.32,Okalongo,Namibia,Africa,2009-04-07T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164384,African swine fever,,-17.54,14.56,Simons Vlei Farm,Namibia,Africa,2009-03-19T00:00:00Z,2009-04-15T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164382,African swine fever,,-17.51,14.64,Eunda,Namibia,Africa,2009-04-08T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146174,African swine fever,,-17.464,14.59,Onashitendo,Namibia,Africa,2009-04-29T00:00:00Z,2009-10-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164377,African swine fever,,-17.51,14.97,Omshii,Namibia,Africa,2009-04-22T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146173,African swine fever,,-17.44368,14.77881,Omahenene,Namibia,Africa,2009-04-16T00:00:00Z,2009-10-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146172,African swine fever,,-17.8665,14.65878,Ouhongo,Namibia,Africa,2009-04-16T00:00:00Z,2009-10-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164376,African swine fever,,10.04912,11.20944,Kan Hawa,Nigeria,Africa,2007-07-05T00:00:00Z,2007-09-28T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164373,African swine fever,,7.12,3.58,Fajol area,Nigeria,Africa,2005-07-01T00:00:00Z,2005-10-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164375,African swine fever,,7.28,3.34,University farm,Nigeria,Africa,2005-07-01T00:00:00Z,2005-10-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+151070,African swine fever,,43.994,40.081,"Region of the mountain ridge ""Skazhenny""",Russian Federation,Europe,2009-12-17T00:00:00Z,2009-12-22T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156140,African swine fever,,44.47111,40.140431,Rural settlement of Dakhovskoe,Russian Federation,Europe,2010-06-15T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156094,African swine fever,,44.08,40.1,Rural settlement of Dakhovskoe,Russian Federation,Europe,2010-06-15T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156137,African swine fever,,44.47111,40.140431,Forest area at 2km north-east of Dagestanskaya village,Russian Federation,Europe,2010-06-19T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156091,African swine fever,,44.39,40.05,Forest area at 2km north-east of Dagestanskaya village,Russian Federation,Europe,2010-06-19T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+155362,African swine fever,,44.39,40.05,Sosnovaya Balka,Russian Federation,Europe,2010-06-18T00:00:00Z,2010-06-21T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+155162,African swine fever,,44.1,40.13,Khamyshky,Russian Federation,Europe,2010-05-25T00:00:00Z,2010-06-11T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156434,African swine fever,,46.24,48.49,Isle of Sudachy Yar,Russian Federation,Europe,2010-08-31T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156432,African swine fever,,46.17,48.64,Makovo village,Russian Federation,Europe,2010-08-26T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156222,African swine fever,,46.14,48.04,Settlement Tuzukley ,Russian Federation,Europe,2010-08-16T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156436,African swine fever,,45.87,47.45,Novogeorgievsk village,Russian Federation,Europe,2010-08-31T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156431,African swine fever,,46.18,48.69,Alekseyevka village,Russian Federation,Europe,2010-08-26T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156224,African swine fever,,45.85,48.13,Kirovskiy Settlement (Kamyzyakski),Russian Federation,Europe,2010-08-16T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156429,African swine fever,,46.07,48.22,Razdor village,Russian Federation,Europe,2010-08-26T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156435,African swine fever,,46.2,48.9,Astrakhan biosphere reserve Obzhorsky plot,Russian Federation,Europe,2010-08-29T00:00:00Z,2010-09-09T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156437,African swine fever,,46.05,48.36,Settlement Kaspy,Russian Federation,Europe,2010-08-16T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156223,African swine fever,,45.72,47.58,Biryuchya Kosa Village,Russian Federation,Europe,2010-08-13T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156430,African swine fever,,46.04,48.04,Uvary village,Russian Federation,Europe,2010-08-25T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156428,African swine fever,,45.72,47.17,Promaslovka,Russian Federation,Europe,2010-08-31T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157856,African swine fever,,42.8,45.81,Shatoysky,Russian Federation,Europe,2008-06-07T00:00:00Z,2008-06-16T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157855,African swine fever,,42.8,45.7,Urochishche Tovzhna,Russian Federation,Europe,2008-01-20T00:00:00Z,2008-01-30T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+134038,African swine fever,,42.8,45.81,Along the Argoun and the Shatoy-Argoun rivers,Russian Federation,Europe,2007-11-05T00:00:00Z,2007-12-04T00:00:00Z,"Wild,wild boar,",National authorities,,,Confirmed
+157917,African swine fever,,43.6506,45.3154,Cossack,Russian Federation,Europe,2009-04-28T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157898,African swine fever,,43.249167,45.190278,Cossack Assinovskaya,Russian Federation,Europe,2008-10-29T00:00:00Z,2008-11-12T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157916,African swine fever,,43.3224,45.8225,Berkat-Yurt,Russian Federation,Europe,2009-05-05T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157911,African swine fever,,43.2237,46.3498,Forest tract in the area of Ilashanyurt village,Russian Federation,Europe,2009-05-05T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146170,African swine fever,,43.2579,45.7744,Prigorodnoye village (tract),Russian Federation,Europe,2009-10-08T00:00:00Z,2009-10-15T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+134039,African swine fever,,42.8,45.81,Shatoysky,Russian Federation,Europe,2008-06-07T00:00:00Z,2008-06-16T00:00:00Z,"Wild,wild boar,",National authorities,,,Confirmed
+157854,African swine fever,,42.8,45.81,Along the Argoun and the Shatoy-Argoun rivers,Russian Federation,Europe,2007-11-05T00:00:00Z,2007-12-04T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157914,African swine fever,,43.4541,46.2249,"Shelkovsky's preserve ""Parobochevsky""",Russian Federation,Europe,2009-05-07T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157913,African swine fever,,43.667,46.0865,Shelkovsky,Russian Federation,Europe,2009-04-27T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157912,African swine fever,,43.2285,46.3262,Forest tract in the area of Koshkeldy,Russian Federation,Europe,2009-05-09T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157915,African swine fever,,43.1082,45.9679,Shalinsky,Russian Federation,Europe,2009-05-09T00:00:00Z,2009-05-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+134037,African swine fever,,42.8,45.7,Urochishche Tovzhna,Russian Federation,Europe,2008-01-20T00:00:00Z,2008-01-30T00:00:00Z,"Wild,wild boar,",National authorities,,,Confirmed
+146146,African swine fever,,44.0729,46.5343,Forest tract,Russian Federation,Europe,2009-09-11T00:00:00Z,2009-09-25T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146368,African swine fever,,43.864,46.607,Village of Novomonastyrskoye,Russian Federation,Europe,2009-11-18T00:00:00Z,2009-11-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146161,African swine fever,,44.3097,46.9926,Forest tract,Russian Federation,Europe,2009-09-13T00:00:00Z,2009-10-06T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153083,African swine fever,,43.76,47.25,"At the frontier between Agrakhan reserve and Co Ltd ""Dagestanskoye""",Russian Federation,Europe,2010-03-12T00:00:00Z,2010-03-17T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157872,African swine fever,,42.983,45,Sunzhensky,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-07-25T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157906,African swine fever,,43.4667,43.75,Urvansky,Russian Federation,Europe,2009-03-01T00:00:00Z,2009-03-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153465,African swine fever,,43.65,43.95,Village Novoivanovskoye,Russian Federation,Europe,2010-03-20T00:00:00Z,2010-03-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157901,African swine fever,,43.4233,42.96,"Game husbandry ""El'brusskoye""",Russian Federation,Europe,2008-12-03T00:00:00Z,2009-01-14T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146249,African swine fever,,46.0995,43.5138,Priyutnoe,Russian Federation,Europe,2009-11-02T00:00:00Z,2009-11-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146369,African swine fever,,46.312,44.254,City of Elista,Russian Federation,Europe,2009-11-19T00:00:00Z,2009-11-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156433,African swine fever,,45.61,47.44,Dzhalykovo village,Russian Federation,Europe,2010-08-04T00:00:00Z,2010-09-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156090,African swine fever,,45.60783,47.436901, Dzhalykovo ,Russian Federation,Europe,2010-08-05T00:00:00Z,2010-08-12T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157200,African swine fever,,43.86,41.59,Zelenchukskaya village,Russian Federation,Europe,2010-10-23T00:00:00Z,2010-11-17T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+159042,African swine fever,,44.09,41.57,Tracts Bakshirka and Barnaukha,Russian Federation,Europe,2010-02-11T00:00:00Z,2011-02-21T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157198,African swine fever,,45.73,40.7,Rural settlement Ilyinskoye,Russian Federation,Europe,2010-11-02T00:00:00Z,2010-11-17T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157199,African swine fever,,44.88,40.61,"""Kavkaz""",Russian Federation,Europe,2010-11-02T00:00:00Z,2010-11-17T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153048,African swine fever,,46.482,39.891,Klyuchevskoy,Russian Federation,Europe,2010-02-26T00:00:00Z,2010-03-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156167,African swine fever,,44.6375,38.615834,"Game husbandry """"Plancheskaya Schel""""",Russian Federation,Europe,2010-08-14T00:00:00Z,2010-08-26T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146367,African swine fever,,43.801,39.683,Sochi State preserve,Russian Federation,Europe,2009-11-18T00:00:00Z,2009-11-23T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+159041,African swine fever,,44.61,38.74,Game husbandry Verkhneye-Afinskoye,Russian Federation,Europe,2010-12-30T00:00:00Z,2011-02-21T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153058,African swine fever,,45.954,40.7,Novopokrovskaya,Russian Federation,Europe,2010-03-01T00:00:00Z,2010-03-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+151069,African swine fever,,44.108,39.578,Region of the mountains Shassi,Russian Federation,Europe,2009-12-12T00:00:00Z,2009-12-22T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157045,African swine fever,,46.5,39.1,"Agricultural production cooperative ""Bolshevik""",Russian Federation,Europe,2010-10-21T00:00:00Z,2010-10-27T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+151511,African swine fever,,44.172,39.366,Woodland near the settlement Anastasievka,Russian Federation,Europe,2010-01-14T00:00:00Z,2010-01-15T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153390,African swine fever,,45.93,40.57,Kubansky,Russian Federation,Europe,2010-03-14T00:00:00Z,2010-03-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+152114,African swine fever,,46.292,40.25,Krasnaya Zvezda,Russian Federation,Europe,2010-02-03T00:00:00Z,2010-02-15T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155087,African swine fever,,44.716667,37.766667,Novorossiysk Bay,Russian Federation,Europe,2010-05-19T00:00:00Z,2010-06-16T00:00:00Z,"Domestic,swine,",FAO officer,,,Confirmed
+156138,African swine fever,,45.129675,38.085242,Engelmanovy Polyany,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146487,African swine fever,,43.966,39.432,"Tract ""Shirokoye""",Russian Federation,Europe,2009-12-04T00:00:00Z,2009-12-08T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+152310,African swine fever,,45.233333,40.616666,Alexeyevsky,Russian Federation,Europe,2010-02-16T00:00:00Z,2010-02-18T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157900,African swine fever,,43.6887,39.7737,Plastunka,Russian Federation,Europe,2009-01-04T00:00:00Z,2009-01-14T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157897,African swine fever,,45.121111,41.021389,Kuban pig farm,Russian Federation,Europe,2008-10-29T00:00:00Z,2008-11-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157596,African swine fever,,46.63,38.67,Staroscherbinovskaya,Russian Federation,Europe,2010-12-03T00:00:00Z,2010-12-27T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156229,African swine fever,,44.12,40.85,Village Andrjuki,Russian Federation,Europe,2010-08-20T00:00:00Z,2010-08-26T00:00:00Z,"Captive,wild boar,",WOAH (former OIE),,,Confirmed
+153389,African swine fever,,44.77,41.04,Konstantinovsky,Russian Federation,Europe,2010-03-14T00:00:00Z,2010-03-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156092,African swine fever,,43.61,40.48,Engelmanovy Polyany,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146488,African swine fever,,43.707,40.289,Laura Cordon,Russian Federation,Europe,2009-12-04T00:00:00Z,2009-12-08T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156139,African swine fever,,45.129675,38.085242,Urochishe Borisovka,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156952,African swine fever,,45.2,38.55,"Agricultural production cooperative breeding farm ""Rossia""",Russian Federation,Europe,2010-09-10T00:00:00Z,2010-10-18T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153049,African swine fever,,44.537,39.095,Forest track Kurgannaya Schel,Russian Federation,Europe,2010-02-27T00:00:00Z,2010-03-04T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156093,African swine fever,,44.29,40.46,Urochishe Borisovka,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-08-10T00:00:00Z,"Wild,wild boar,Domestic,swine,",WOAH (former OIE),,,Confirmed
+134062,African swine fever,,59.758,31.07,Settlement Mga,Russian Federation,Europe,2009-10-01T00:00:00Z,2009-10-20T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146168,African swine fever,,46.3431,42.2816,Yashalta,Russian Federation,Europe,2009-10-10T00:00:00Z,2009-10-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157866,African swine fever,,51.783,54.8,Settlement Chernorechye,Russian Federation,Europe,2008-07-10T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146160,African swine fever,,48.448,41.8283,Hamlet Obschy,Russian Federation,Europe,2009-10-02T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155762,African swine fever,,48.3776,40.2434,"JSC ""Engineering works Kamensky""",Russian Federation,Europe,2010-07-08T00:00:00Z,2010-07-15T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134319,African swine fever,,48.2744,41.6232,Hamlet Vlasov,Russian Federation,Europe,2009-10-18T00:00:00Z,2009-10-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134318,African swine fever,,47.6481,41.3436,Bogoyavlenskaya,Russian Federation,Europe,2009-10-05T00:00:00Z,2009-10-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155085,African swine fever,,48.31695,40.325864,Lesnoy Khutor,Russian Federation,Europe,2010-06-15T00:00:00Z,2010-06-18T00:00:00Z,"Domestic,swine,",FAO officer,,,Confirmed
+155086,African swine fever,,47.6175,41.759722,Pravda Khutor,Russian Federation,Europe,2010-06-16T00:00:00Z,2010-06-18T00:00:00Z,"Domestic,swine,",FAO officer,,,Confirmed
+146156,African swine fever,,48.0202,41.7373,Hamlet Nikolaev,Russian Federation,Europe,2009-10-02T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156075,African swine fever,,47.02,41.32,Valuyskiy khutor,Russian Federation,Europe,2010-07-26T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146208,African swine fever,,47.2206,40.6712,Hamlet Middle Manych,Russian Federation,Europe,2009-10-26T00:00:00Z,2009-10-30T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157910,African swine fever,,46.3517,42.1383,Romanovka village,Russian Federation,Europe,2009-03-28T00:00:00Z,2009-04-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146155,African swine fever,,48.2514,41.8797,Hamlet Shirokoatamansky,Russian Federation,Europe,2009-10-01T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155491,African swine fever,,47.76,41.55,Belyansky,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-06-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155763,African swine fever,,48.8546,41.6887,Game husbandry Berezovskoye,Russian Federation,Europe,2010-07-07T00:00:00Z,2010-07-15T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+153391,African swine fever,,47.75,41.04,"Game husbandry ""Kundryuchenskoye""",Russian Federation,Europe,2010-03-16T00:00:00Z,2010-03-19T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146344,African swine fever,,47.8739,42.1404,Hamlet Antonov,Russian Federation,Europe,2009-10-06T00:00:00Z,2009-11-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146159,African swine fever,,47.9764,42.2794,Novotsimlyanskaya,Russian Federation,Europe,2009-10-01T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146182,African swine fever,,48.403,41.778,Hamlet Gruzinov,Russian Federation,Europe,2009-10-02T00:00:00Z,2009-10-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146486,African swine fever,,47.585,41.108,Konstantinovsk,Russian Federation,Europe,2009-12-04T00:00:00Z,2009-12-08T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155761,African swine fever,,48.7801,41.4924,Game husbandry Man'kovo-Berezovskoye,Russian Federation,Europe,2010-07-08T00:00:00Z,2010-07-15T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+156232,African swine fever,,47.75,40.92,Nijnekoundrutchenskoje Municipality,Russian Federation,Europe,2010-08-19T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155037,African swine fever,,47.52,40.15,Co Ltd Work study unit “Donskoye”,Russian Federation,Europe,2010-05-24T00:00:00Z,2010-05-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146370,African swine fever,,47.508,41.729,Hamlet Kholodny,Russian Federation,Europe,2009-11-20T00:00:00Z,2009-11-23T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+155490,African swine fever,,48.48,40.31,Berezovy,Russian Federation,Europe,2010-06-21T00:00:00Z,2010-06-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146163,African swine fever,,47.6139,41.505,Nikolaevskaya,Russian Federation,Europe,2009-10-03T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157514,African swine fever,,47.137939,39.757028,Bataisk,Russian Federation,Europe,2010-12-13T00:00:00Z,2010-12-13T00:00:00Z,"Domestic,swine,",Media,,,Confirmed
+156183,African swine fever,,48.416939,40.358565,Rural settlement Goluboy,Russian Federation,Europe,2010-08-13T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+154876,African swine fever,,48.19,41.07,Hamlet Ladoga,Russian Federation,Europe,2010-05-16T00:00:00Z,2010-05-20T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156231,African swine fever,,47.03,40.99,Bowery «Krasnyy Oktyabr’» ZAO Krasnyy Oktyabr’,Russian Federation,Europe,2010-08-11T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156188,African swine fever,,47.195158,41.299989,Novosadkovski Village,Russian Federation,Europe,2010-08-19T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155764,African swine fever,,47.4044,42.6509,Hamlet Scheglov,Russian Federation,Europe,2010-07-08T00:00:00Z,2010-07-15T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153050,African swine fever,,48.051,39.943,Gukovo,Russian Federation,Europe,2010-02-26T00:00:00Z,2010-03-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146157,African swine fever,,47.6299,41.97,Hamlet Loznoy,Russian Federation,Europe,2009-10-01T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156082,African swine fever,,47.64,40.18,"""Agro Soyus Yug Rusi""",Russian Federation,Europe,2010-06-24T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157597,African swine fever,,47.13,39.75,Subsidiary premises of the Institution 398/15,Russian Federation,Europe,2010-12-11T00:00:00Z,2010-12-27T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+154929,African swine fever,,47.53,40.16,Persianovka settlement,Russian Federation,Europe,2010-04-09T00:00:00Z,2010-04-15T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146181,African swine fever,,48.0508,39.9425,Gukovo town,Russian Federation,Europe,2009-10-20T00:00:00Z,2009-10-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146164,African swine fever,,47.8357,41.2808,Hamlet Kryukov,Russian Federation,Europe,2009-10-03T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156079,African swine fever,,47.78,41.47,Ermilov khutor,Russian Federation,Europe,2010-06-21T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146162,African swine fever,,48.2972,41.7197,Hamlet Sibir'ki,Russian Federation,Europe,2009-10-02T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146343,African swine fever,,48.1899,42.0029,Hamlet Troytsky,Russian Federation,Europe,2009-11-05T00:00:00Z,2009-11-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156076,African swine fever,,47.8,41.96,Parshikov khutor,Russian Federation,Europe,2010-07-05T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134317,African swine fever,,46.5653,43.6636,Remontnoe,Russian Federation,Europe,2009-10-20T00:00:00Z,2009-10-23T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155038,African swine fever,,48.6306,41.6708,"Game husbandry ""Berezovskoye"" closed joint-stock company SU-120",Russian Federation,Europe,2010-05-21T00:00:00Z,2010-05-26T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+146158,African swine fever,,47.6277,41.1897,Hamlet Kamyshny,Russian Federation,Europe,2009-10-03T00:00:00Z,2009-10-06T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156081,African swine fever,,48.64,39.86,Duby khutor,Russian Federation,Europe,2010-06-23T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156080,African swine fever,,47.68,40.34,Markin khutor,Russian Federation,Europe,2010-06-20T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+133673,African swine fever,,47.0728,42.0927,Krasnoyarskaya,Russian Federation,Europe,2009-09-27T00:00:00Z,2009-09-30T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156078,African swine fever,,47.61,41.71,Gorskly khutor and Cossack village of Mariinskaya,Russian Federation,Europe,2010-06-16T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156083,African swine fever,,48.78,41.6,CJSC,Russian Federation,Europe,2010-07-16T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156077,African swine fever,,47.09,40.74,Veselyy village,Russian Federation,Europe,2010-07-20T00:00:00Z,2010-08-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156233,African swine fever,,48.087489,40.955253,Cooperative Don Razdorskoje,Russian Federation,Europe,2010-08-19T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+153082,African swine fever,,47.69,41.02,Game husbandry Avilovskoye,Russian Federation,Europe,2010-03-11T00:00:00Z,2010-03-17T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157811,African swine fever,,59.82,30.09,Settlement Volodarsky,Russian Federation,Europe,2010-12-10T00:00:00Z,2011-01-14T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157886,African swine fever,,43.177778,44.307778,Ardon,Russian Federation,Europe,2008-08-29T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157867,African swine fever,,43.133,43.816,Settlement Akhsarisar,Russian Federation,Europe,2008-07-18T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157862,African swine fever,,43.0666,44.6333,Nogir,Russian Federation,Europe,2008-07-09T00:00:00Z,2008-07-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134041,African swine fever,,42.95,44.7666,Tarskoje,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157891,African swine fever,,43.019167,44.411667,Dzuarikau,Russian Federation,Europe,2008-10-02T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157858,African swine fever,,42.95,44.7666,Tarskoje,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134040,African swine fever,,43.0602,44.8822,Komgaron,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157878,African swine fever,,43.139167,44.599167,Alkhanchurt,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157885,African swine fever,,43.278889,43.835278,Lesken,Russian Federation,Europe,2008-08-21T00:00:00Z,2008-10-29T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157890,African swine fever,,43.011944,44.399722,Suadag,Russian Federation,Europe,2008-09-29T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157864,African swine fever,,43,44.2166,Biragzang,Russian Federation,Europe,2008-07-09T00:00:00Z,2008-07-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157857,African swine fever,,43.0602,44.8822,Komgaron,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157869,African swine fever,,43.083,44.066,Settlement Kora-Ursdon,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157861,African swine fever,,43.05,44.8166,Sunzha,Russian Federation,Europe,2008-06-27T00:00:00Z,2008-07-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157892,African swine fever,,43.004167,44.591111,Alagirsky,Russian Federation,Europe,2008-07-25T00:00:00Z,2008-10-29T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157884,African swine fever,,43.019722,44.565,Verkhnyaya Saniba,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157881,African swine fever,,43.269722,44.303056,Kardzhin,Russian Federation,Europe,2008-08-10T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157868,African swine fever,,43.016,44.666,Vladikavkaz city,Russian Federation,Europe,2008-07-20T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157875,African swine fever,,43.022778,44.483056,Mairamadag,Russian Federation,Europe,2008-07-04T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157880,African swine fever,,42.707778,43.965556,Zaramag,Russian Federation,Europe,2008-07-30T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157863,African swine fever,,43.03333,44.2166,Settlement Tsementny,Russian Federation,Europe,2008-07-09T00:00:00Z,2008-07-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157876,African swine fever,,43.036111,44.2275,Settlement UZK,Russian Federation,Europe,2008-07-15T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157860,African swine fever,,43.1169,44.565,Verkhneje Sanibo,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157888,African swine fever,,43.175278,44.416111,Kirovo,Russian Federation,Europe,2008-09-03T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157859,African swine fever,,43.0519,44.3647,Rural settlement Khataldon,Russian Federation,Europe,2008-06-28T00:00:00Z,2008-07-07T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157887,African swine fever,,43.224167,44.503611,Novy Batacoyurt,Russian Federation,Europe,2008-08-28T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157882,African swine fever,,43.141944,44.4075,Michurino,Russian Federation,Europe,2008-08-10T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157870,African swine fever,,43.116,44.25,Settlement Ramonovo,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157905,African swine fever,,43.0417,44.5617,Giezel,Russian Federation,Europe,2009-03-03T00:00:00Z,2009-03-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157865,African swine fever,,43.166,43.983,Settlement Surkh-Digora,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146264,African swine fever,,43.6958,44.5381,Razdolnoye village,Russian Federation,Europe,2009-11-10T00:00:00Z,2009-11-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157879,African swine fever,,43.126944,44.0325,Dur-Dur,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157871,African swine fever,,43.1,44.616,Settlement Mikhailovskoye,Russian Federation,Europe,2008-07-21T00:00:00Z,2008-07-25T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157883,African swine fever,,43.062778,44.759444,Settlement Oktyabrskoye,Russian Federation,Europe,2008-09-14T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157877,African swine fever,,43.050556,44.19,Tsrau,Russian Federation,Europe,2008-07-04T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157889,African swine fever,,43.201111,44.461667,Kosta,Russian Federation,Europe,2008-09-08T00:00:00Z,2008-10-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157895,African swine fever,,43.854,43.637,Staropavlovskaya,Russian Federation,Europe,2008-10-27T00:00:00Z,2008-11-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157904,African swine fever,,46.0817,42.9283,Kievka village,Russian Federation,Europe,2009-03-15T00:00:00Z,2009-03-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157894,African swine fever,,44.268,43.983,Gorkaya Balka,Russian Federation,Europe,2008-10-26T00:00:00Z,2008-11-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157899,African swine fever,,43.9767,44.2233,Rostovanovskoye,Russian Federation,Europe,2009-01-08T00:00:00Z,2009-01-13T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157873,African swine fever,,44.266667,43.983333,Gorkaya Balka village,Russian Federation,Europe,2008-10-15T00:00:00Z,2008-10-24T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+131011,African swine fever,,44.266667,43.983333,"Gorkaya Balka village, farm 2",Russian Federation,Europe,2008-10-15T00:00:00Z,2008-10-24T00:00:00Z,"Domestic,swine,",FAO Field Officer,,,Confirmed
+157902,African swine fever,,44.1214,43.0444,Isolated farmstead Privol'ny,Russian Federation,Europe,2009-01-12T00:00:00Z,2009-01-16T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+129591,African swine fever,,44.2626667,43.983333,"Gorkaya Balka village, farm 1",Russian Federation,Europe,2008-10-15T00:00:00Z,2008-10-24T00:00:00Z,"Domestic,swine,",FAO Field Officer,,,Confirmed
+157874,African swine fever,,44.266667,43.983333,Gorkaya Balka village,Russian Federation,Europe,2008-10-15T00:00:00Z,2008-10-24T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157896,African swine fever,,43.986,43.025,Yutsa,Russian Federation,Europe,2008-10-29T00:00:00Z,2008-11-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157909,African swine fever,,46.0817,42.9283,Kievka village,Russian Federation,Europe,2009-03-29T00:00:00Z,2009-04-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157903,African swine fever,,44.2279,43.2464,"Reserve ""Debri""",Russian Federation,Europe,2009-01-14T00:00:00Z,2009-01-16T00:00:00Z,"Wild,wild boar,",WOAH (former OIE),,,Confirmed
+157908,African swine fever,,45.9067,43.34,Divnoye village,Russian Federation,Europe,2009-03-27T00:00:00Z,2009-04-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157907,African swine fever,,45.9067,43.34,Divnoye village,Russian Federation,Europe,2009-03-07T00:00:00Z,2009-04-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157812,African swine fever,,45.83,41.48,Krasnogvardeyskoye Village,Russian Federation,Europe,2010-12-25T00:00:00Z,2011-01-14T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+146263,African swine fever,,44.1391,44.73,Bogdanovka,Russian Federation,Europe,2009-11-10T00:00:00Z,2009-11-16T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157893,African swine fever,,44.95,43.049,Grushevskoye,Russian Federation,Europe,2008-10-27T00:00:00Z,2008-11-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157918,African swine fever,,45.0523,42.0902,Nadezhda,Russian Federation,Europe,2009-04-30T00:00:00Z,2009-05-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156084,African swine fever,,49.57,42.4,Ust-Khoperskaya,Russian Federation,Europe,2010-08-01T00:00:00Z,2010-08-09T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157426,African swine fever,,49.72,42.87,Hamlet Zimnitsky,Russian Federation,Europe,2010-11-20T00:00:00Z,2010-12-07T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155965,African swine fever,,49.58,42.74,Serafimovich city,Russian Federation,Europe,2010-07-28T00:00:00Z,2010-08-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+156230,African swine fever,,49.55,42.61,Hamlet Buerak-Popovskij,Russian Federation,Europe,2010-08-13T00:00:00Z,2010-08-26T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155964,African swine fever,,49.82,42.85,Cossack village of Glazunovskaya,Russian Federation,Europe,2010-07-25T00:00:00Z,2010-08-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155963,African swine fever,,49.58,42.55,Xovanskiy khutor,Russian Federation,Europe,2010-07-28T00:00:00Z,2010-08-02T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+155943,African swine fever,,47.57,43.16,Hamlet Nagolny,Russian Federation,Europe,2010-07-26T00:00:00Z,2010-07-29T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+165345,African swine fever,,2.784519,32.296148,Senior Quarter village,Uganda,Africa,2010-11-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165349,African swine fever,,2.784519,32.296148,Pece (Te-Gwana village),Uganda,Africa,2010-12-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165344,African swine fever,,2.784519,32.296148,Kalamomiya Village,Uganda,Africa,2010-10-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165339,African swine fever,,2.73,32.61,Orapwoyo village,Uganda,Africa,2010-08-30T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165348,African swine fever,,2.716667,32.316667,Koro (Opok Village),Uganda,Africa,2010-11-01T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+165337,African swine fever,,3.4912,31.588455,Moyo,Uganda,Africa,2010-06-18T00:00:00Z,2011-09-14T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157251,African swine fever,,38.694906,46.480082,Ahar,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157250,African swine fever,,38.821577,45.959085,Oshdibin,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157253,African swine fever,,38.821577,45.959085,Namngah,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157256,African swine fever,,38.6570532484,44.8173205927,Khoy,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157254,African swine fever,,37.4087789383,46.3200034392,Maragheh,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157255,African swine fever,,38.59202,45.655638,Marand,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+157252,African swine fever,,37.996916,47.457108,Sarab,Iran  (Islamic Republic of),Asia,2008-11-01T00:00:00Z,2010-11-01T00:00:00Z,"Wild,wild boar,",Other,,,Confirmed
+164383,African swine fever,,-17.78,16.2,Omahenge,Namibia,Africa,2009-04-11T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164387,African swine fever,,-17.98,15.08,Omukondo,Namibia,Africa,2009-04-16T00:00:00Z,2009-05-10T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+134061,African swine fever,,-17.98,15.08,Omukoko,Namibia,Africa,2009-04-16T00:00:00Z,2009-10-19T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+130288,African swine fever,,-6.812,39.2164,Mabibo,United Republic of Tanzania,Africa,2008-02-21T00:00:00Z,2008-03-06T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+130287,African swine fever,,-6.1813,36.812,Madizini,United Republic of Tanzania,Africa,2008-02-04T00:00:00Z,2008-03-06T00:00:00Z,"Domestic,swine,",National authorities,,,Confirmed
+157428,African swine fever,,-9.58,33.85,Kyela,United Republic of Tanzania,Africa,2010-12-03T00:00:00Z,2010-12-08T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164452,African swine fever,,-1.26,36.78,Kiambu,Kenya,Africa,2007-01-11T00:00:00Z,2007-05-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164453,African swine fever,,-1.26,36.78,Kiambu,Kenya,Africa,2007-01-23T00:00:00Z,2007-05-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+158473,African swine fever,,-0.0993,34.9033,Kisumo east,Kenya,Africa,2010-12-07T00:00:00Z,2011-02-11T00:00:00Z,"Domestic,swine,",FAO Field Officer,,,Confirmed
+176403,African swine fever,,-0.456557,36.10175,Nakuru,Kenya,Africa,2007-01-23T00:00:00Z,2007-05-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164451,African swine fever,,0.59,35.4,Kapseret/Eldoret,Kenya,Africa,2007-01-12T00:00:00Z,2007-05-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164363,African swine fever,,-13.41,24.33,Kabompo,Zambia,Africa,2007-11-01T00:00:00Z,2007-12-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164365,African swine fever,,-13.5,25.91,Kasempa,Zambia,Africa,2007-11-01T00:00:00Z,2007-12-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164366,African swine fever,,-13.21,24.61,Samapimbi,Zambia,Africa,2007-11-01T00:00:00Z,2007-12-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164364,African swine fever,,-12.5,26.42,Solwezi,Zambia,Africa,2007-11-01T00:00:00Z,2007-12-12T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164372,African swine fever,,-17.83,25.85,David Livingstone Teacher's training college,Zambia,Africa,2006-01-11T00:00:00Z,2006-04-14T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164371,African swine fever,,-17.87,25.87,Livingstone Management farm,Zambia,Africa,2006-02-06T00:00:00Z,2006-04-14T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157008,African swine fever,,10.28,15.37,Bongor,Chad,Africa,2010-10-04T00:00:00Z,2010-10-22T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+160655,African swine fever,,9.35,14.97,Pala,Chad,Africa,2010-11-29T00:00:00Z,2011-03-21T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157548,African swine fever,,9.416667,15.083334,Pala,Chad,Africa,2010-11-15T00:00:00Z,2010-12-17T00:00:00Z,"Domestic,swine,",FAO Field Officer,,,Confirmed
+157101,African swine fever,,9.91,15.13,Fianga,Chad,Africa,2010-10-24T00:00:00Z,2010-11-04T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+161740,African swine fever,,9.2776,15.0421,Gounougaya,Chad,Africa,2010-11-06T00:00:00Z,2011-03-30T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+160657,African swine fever,,9.64,14.22,Léré,Chad,Africa,2010-11-29T00:00:00Z,2011-03-21T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+157541,African swine fever,,4.38,18.57,Zerengogo,Central African Republic,Africa,2010-06-01T00:00:00Z,2010-12-11T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164361,African swine fever,,11.0663,0.2655,Cinkansé,Burkina Faso,Africa,2007-06-03T00:00:00Z,2007-07-24T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164362,African swine fever,,11.274,-1.4548,Karkuigdhin,Burkina Faso,Africa,2007-04-19T00:00:00Z,2007-07-24T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
+164374,African swine fever,,7.04,3.75,Olarunshogo,Nigeria,Africa,2005-07-01T00:00:00Z,2005-10-05T00:00:00Z,"Domestic,swine,",WOAH (former OIE),,,Confirmed
