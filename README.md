@@ -26,9 +26,9 @@ python -m ipykernel install --user --name vax_inc_general --display-name "vax_in
 
 ### b) Geopandas Environment (general map plotting)
 
-Install all modules from 'requirements_geo.yml' in a Python **3.10.12** environment. You can do so by the below steps.
+Install all modules from `requirements_geo.yml` in a Python **3.10.12** environment. You can do so by the below steps.
 
-Using an anaconda terminal, navigate to the directory containing 'requirements_geo.yml' and run:
+Using an anaconda terminal, navigate to the directory containing `requirements_geo.yml` and run:
 
 ```bash
 conda env create -f requirements_geo.yml -y
@@ -70,7 +70,7 @@ python -m ipykernel install --user --name vax_inc_arcgis --display-name "vax_inc
 
 ## 2. Running the code
 
-Each Jupyter Notebook specifies the relevant kernel to use. The program files can be run in any order as the repository contains intermediate data outputs from each '.ipynb' file. 
+Each Jupyter Notebook specifies the relevant kernel to use. The program files can be run in any order as the repository contains intermediate data outputs from each `.ipynb` file. 
 
 However, to reproduce findings from start (raw data) to finish (end results), run the code files in the following order:
 
@@ -84,14 +84,14 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 >The above three files can be run in any order.
 
 **c) Vaccination Coverage**
-- `2005-2024_part_cattle_vaccine_coverage_by_country.csv`
-- `2005-2024_part_poultry_vaccine_coverage_by_country.csv`
-- `2005-2024_part_swine_vaccine_coverage_by_country.csv`
+- `cattle vaccine coverage_admin_reports.ipynb`
+- `poultry vaccine coverage_admin_reports.ipynb`
+- `swine vaccine coverage_admin_reports.ipynb`
 >The above three files can be run in any order.
 
-- `2005-2024_full_cattle_vaccine_coverage_by_country.csv`
-- `2005-2024_full_poultry_vaccine_coverage_by_country.csv`
-- `2005-2024_full_swine_vaccine_coverage_by_country.csv`
+- `cattle vaccine coverage_all_data_sources.ipynb`
+- `poultry vaccine coverage_all_data_sources.ipynb`
+- `swine vaccine coverage_all_data_sources.ipynb`
 >The above three files can be run in any order.
 
 **d) Imputation**
