@@ -51,7 +51,7 @@ conda activate vax_inc_incidence
 conda install -c conda-forge r-base -y
 conda install -c conda-forge rpy2=2.9.4 -y
 pip install matplotlib==3.5.3 numpy==1.21.0 pandas==1.3.5 pycountry==22.3.5 scipy==1.7.3
-python -m ipykernel install --user --name vax_inc_incidence --display-name "vax_inc_incidence "
+python -m ipykernel install --user --name vax_inc_incidence --display-name "vax_inc_incidence"
 conda install --force-reinstall pyzmq zeromq -y
 pip install --force-reinstall jupyter_client ipykernel
 ```
