@@ -28,24 +28,32 @@ python -m ipykernel install --user --name vax_inc_general --display-name "vax_in
 
 Install all modules from `requirements_geo.yml` in a Python **3.10.12** environment. You can do so by the below steps.
 
-Using an anaconda terminal, navigate to the directory containing `requirements_geo.yml` and run:
+Using an anaconda terminal, run:
 
 ```bash
-conda env create -f requirements_geo.yml -y
+vax_inc_geo
+conda create -n vax_inc_geo python=3.10.12 jupyter -y
 conda activate vax_inc_geo
-python -m ipykernel install --user --name vax_inc_geo --display-name "vax_inc_geo"
+conda install -c conda-forge geopandas==0.10.2 rasterio==1.3.7 -y
+pip install python-docx==0.8.11 jenkspy==0.3.2 matplotlib==3.5.2 numpy==1.23.5 pandas==1.4.2 pycountry==22.3.5
+python -m ipykernel install --user --name vax_inc_geo --display-name vax_inc_geo
 ```
 
 ### c) Incidence Environment
 
 Install all modules from `requirements_incidence.yml` in a Python **3.7.16** environment.
 
-Using an anaconda terminal, navigate to the directory containing `requirements_incidence.yml` and run:
+Using an anaconda terminal, run:
 
 ```bash
-conda env create -f requirements_incidence.yml -y
+conda create -n vax_inc_incidence python=3.7.16 jupyter -y
 conda activate vax_inc_incidence
-python -m ipykernel install --user --name vax_inc_incidence --display-name "vax_inc_incidence"
+conda install -c conda-forge r-base -y
+conda install -c conda-forge rpy2=2.9.4 -y
+pip install matplotlib==3.5.3 numpy==1.21.0 pandas==1.3.5 pycountry==22.3.5 scipy==1.7.3
+python -m ipykernel install --user --name vax_inc_incidence --display-name "vax_inc_incidence "
+conda install --force-reinstall pyzmq zeromq -y
+pip install --force-reinstall jupyter_client ipykernel
 ```
 
 > The package **rpy2** requires that R is installed locally on your computer (version 4.1.3).
