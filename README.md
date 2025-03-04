@@ -83,7 +83,7 @@ Each Jupyter Notebook specifies the relevant kernel to use. The program files ca
 However, to reproduce findings from start (raw data) to finish (end results), run the code files in the following order:
 
 **a) Common Source Data**
-- `Imputation for missing vaccination coverage and disease incidence (30+ countries data threshold per disease).ipynb`
+- `Extrapolating + interpolating populations - filling in missing datapoints.ipynb`
 
 **b) Disease Incidence**
 - `2005-2024 cattle incidence rate (yearly).ipynb`
