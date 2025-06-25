@@ -108,7 +108,7 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 **e) Vaccination Coverage**
 - `Combine ALL Vaccination Coverage Dataframes.ipynb`
 
-**f)Disease Incidence**
+**f) Disease Incidence**
 - `Combine ALL Incidence Dataframes.ipynb`
 
 >*Run the remaining files in any order:*
@@ -136,3 +136,12 @@ Contains the code used to calculate all disease incidence estimates and generate
 Contains the code used to calculate all vaccination coverage estimates and generate the relevant figures.
 - **Imputation:**
 Contains the code used to impute missing values via XGBoost (trained with Bayesian optimization) and other techniques outlined in the paper.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).  
+
+If you use this codebase, please cite the accompanying manuscript:
+
+> *Global Vaccination Coverage and Disease Incidence in Cattle, Pigs, and Poultry* — Gleason A, Impalli I, Sheen J, Cabezas A, Grenfell B, Levin S, Van Boeckel TP, Laxminarayan R. 2025.
+
