@@ -83,19 +83,22 @@ Each Jupyter Notebook specifies the relevant kernel to use. The program files ca
 However, to reproduce findings from start (raw data) to finish (end results), run the code files in the following order:
 
 **a) Common Source Data**
-- `Extrapolating + interpolating populations - filling in missing datapoints.ipynb`
+- `Extrapolating and interpolating populations - filling in missing datapoints.ipynb`
+- `Sorting vaccine use by animal.ipynb`
 
 **b) Disease Incidence**
 - `2005-2024 cattle incidence rate (yearly).ipynb`
 - `2005-2024 poultry incidence rate (yearly).ipynb`
 - `2005-2024 swine incidence rate (yearly).ipynb`
->The above three files can be run in any order.
+- `Reconciling disease incidence presence vs absence.ipynb`
+>The above four files can be run in any order.
 
 **c) Vaccination Coverage**
 - `cattle vaccine coverage_admin_reports.ipynb`
 - `poultry vaccine coverage_admin_reports.ipynb`
 - `swine vaccine coverage_admin_reports.ipynb`
->The above three files can be run in any order.
+- `Reconciling vaccination measure presence vs absence.ipynb`
+>The above four files can be run in any order.
 
 - `cattle vaccine coverage_all_data_sources.ipynb`
 - `poultry vaccine coverage_all_data_sources.ipynb`
@@ -106,10 +109,10 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 - `Imputation for missing vaccination coverage and disease incidence (30+ countries data threshold per disease).ipynb`
 
 **e) Vaccination Coverage**
-- `Combine ALL Vaccination Coverage Dataframes.ipynb`
+- `Combine all Vaccination Coverage Dataframes.ipynb`
 
 **f) Disease Incidence**
-- `Combine ALL Incidence Dataframes.ipynb`
+- `Combine all Incidence Dataframes.ipynb`
 
 >*Run the remaining files in any order:*
 
@@ -120,16 +123,22 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 - `Plot vaccination coverage (per pixel).ipynb`
 - `Arcpy_Current pop size maps (Cattle, chickens, and swine).ipynb`
 - `Plot population maps of animals.ipynb`
+- `Vaccination coverage over time.ipynb`
+- `Vaccination gap countries ranked scaled by production intensity.ipynb`
+- `2010 to 2025 change - plot vaccination by country (proportion vaccinated).ipynb`
+- `Outliers_vacc_coverage_incidence.ipynb`
 
 **h) Disease Incidence:**
 - `Cases of disease over time.ipynb`
 - `Plot incidence AND report top incidence countries 2024.ipynb`
+- `2010 to 2025 change - plot incidence by country.ipynb`
+- `Incidence and coverage over time by region and income.ipynb`
 
 ---
 
 ## Overview of Folders
 - **Common Source Data:**
-Contains raw data from WAHIS, FAO, and other sources used to generate the findings in this study.
+Contains data from WAHIS, FAO, and other sources used to generate the findings in this study. Raw data is contained within the corresponding folder (e.g., "WAHIS", "FAO", etc.). Processed data is within the "Processed data" folder.
 - **Disease Incidence:**
 Contains the code used to calculate all disease incidence estimates and generate the relevant figures.
 - **Vaccination Coverage:**
