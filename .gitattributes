@@ -4,3 +4,7 @@ Vaccination[[:space:]]Coverage/Supplementary[[:space:]]Spreadsheet-[[:space:]]Va
 Disease[[:space:]]Incidence/Supplementary[[:space:]]Spreadsheet-[[:space:]]Incidence[[:space:]]Estimates.csv filter=lfs diff=lfs merge=lfs -text
 Common[[:space:]]Source[[:space:]]Data/Processed[[:space:]]data/Multisource/vaccination_filter.csv filter=lfs diff=lfs merge=lfs -text
 Common[[:space:]]Source[[:space:]]Data/Processed[[:space:]]data/Multisource/domestic_disease_presence_or_absence_filter_and_susceptible_countries.csv filter=lfs diff=lfs merge=lfs -text
+Common[[:space:]]Source[[:space:]]Data/WAHIS[[:space:]]data/Disease[[:space:]]situation.csv filter=lfs diff=lfs merge=lfs -text
+Common[[:space:]]Source[[:space:]]Data/Processed[[:space:]]data/Multisource/*.csv filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
