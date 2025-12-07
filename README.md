@@ -26,12 +26,9 @@ python -m ipykernel install --user --name vax_inc_general --display-name "vax_in
 
 ### b) Geopandas Environment (general map plotting)
 
-Install all modules from `requirements_geo.yml` in a Python **3.10.12** environment. You can do so by the below steps.
-
 Using an anaconda terminal, run:
 
 ```bash
-vax_inc_geo
 conda create -n vax_inc_geo python=3.10.12 jupyter -y
 conda activate vax_inc_geo
 conda install -c conda-forge geopandas==0.10.2 rasterio==1.3.7 -y
@@ -40,8 +37,6 @@ python -m ipykernel install --user --name vax_inc_geo --display-name vax_inc_geo
 ```
 
 ### c) Incidence Environment
-
-Install all modules from `requirements_incidence.yml` in a Python **3.7.16** environment.
 
 Using an anaconda terminal, run:
 
@@ -63,7 +58,7 @@ pip install --force-reinstall jupyter_client ipykernel
 
 This environment is only necessary to generate and visualize maps that are color-coded by pixel.
 
->Requires an ArcGIS subscription.
+> Requires an ArcGIS subscription.
 
 Clone the ArcGIS Conda environment from the application to a local destination (recommended under your `anaconda/envs/` directory, e.g., `C:\Users\[USER]\anaconda3\envs\vax_inc_arcgis`).
 
@@ -75,6 +70,7 @@ conda env update --name vax_inc_arcgis --file requirements_arcgis.yml -y
 python -m ipykernel install --user --name vax_inc_arcgis --display-name "vax_inc_arcgis"
 ```
 ---
+> Note: The steps work for ArcGIS Pro 3.2. Dependency versions may vary in other releases of ArcGIS Pro.
 
 ## 2. Running the code
 
@@ -91,19 +87,19 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 - `2005-2024 poultry incidence rate (yearly).ipynb`
 - `2005-2024 swine incidence rate (yearly).ipynb`
 - `Reconciling disease incidence presence vs absence.ipynb`
->The above four files can be run in any order.
+> The above four files can be run in any order.
 
 **c) Vaccination Coverage**
 - `cattle vaccine coverage_admin_reports.ipynb`
 - `poultry vaccine coverage_admin_reports.ipynb`
 - `swine vaccine coverage_admin_reports.ipynb`
 - `Reconciling vaccination measure presence vs absence.ipynb`
->The above four files can be run in any order.
+> The above four files can be run in any order.
 
 - `cattle vaccine coverage_all_data_sources.ipynb`
 - `poultry vaccine coverage_all_data_sources.ipynb`
 - `swine vaccine coverage_all_data_sources.ipynb`
->The above three files can be run in any order.
+> The above three files can be run in any order.
 
 **d) Imputation**
 - `Imputation for missing vaccination coverage and disease incidence (30+ countries data threshold per disease).ipynb`
@@ -114,7 +110,7 @@ However, to reproduce findings from start (raw data) to finish (end results), ru
 **f) Disease Incidence**
 - `Combine all Incidence Dataframes.ipynb`
 
->*Run the remaining files in any order:*
+> *Run the remaining files in any order:*
 
 **g) Vaccination Coverage**
 - `Calculating global 2024 coverage levels, top countries at risk by unvaccinated, global cases.ipynb`
