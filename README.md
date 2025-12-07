@@ -148,5 +148,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you use this codebase, please cite the accompanying manuscript:
 
-> *Global Vaccination Coverage and Disease Incidence in Cattle, Pigs, and Poultry* — Gleason A, Impalli I, Sheen J, Cabezas A, Grenfell BT, Levin SA, Van Boeckel TP, Laxminarayan R. 2025.
+> *Global Vaccination Coverage and Disease Incidence in Cattle, Pigs, and Poultry* — Gleason A, Impalli I, Sheen J, Cabezas Murillo A, Grenfell BT, Levin SA, Van Boeckel TP, Laxminarayan R. 2025.
 
